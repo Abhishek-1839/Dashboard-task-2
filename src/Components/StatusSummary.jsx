@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Header.css";
+import "./Appliances.css";
 
 const StatusSummary = () => {
     return (

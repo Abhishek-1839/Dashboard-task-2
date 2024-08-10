@@ -1,13 +1,19 @@
 import React from 'react'
-import Header from './Components/Header'
+import DeviceHeader from './Components/DeviceHeader'
+import Header from './Components/AppliancesTable'
 import StatusSummary from './Components/StatusSummary'
 
 const App = () => {
   return (
     <div>
-      <StatusSummary />
-      <Header />
+
+        <DeviceHeader />
+        <StatusSummary />
+        <Header />
+
+    
     </div>
+
   );
 }
 

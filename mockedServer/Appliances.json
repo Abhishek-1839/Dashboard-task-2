@@ -8,78 +8,6 @@
         "state": "Delhi",
         "country": "India"
       },
-      "bandwidth": "1 Gbps",
-      "avgBandwidth": "812 Kbps",
-      "deviceStatus": "Offline",
-      "downloadStatus": "Failed",
-      "osVersion": "5.2.1.3"
-    },
-    {
-      "serialNo": "JTD-912130",
-      "theatreName": "Galaxy Cinema",
-      "location": {
-        "city": "Mumbai",
-        "state": "Maharashtra",
-        "country": "India"
-      },
-      "bandwidth": "500 Mbps",
-      "avgBandwidth": "450 Kbps",
-      "deviceStatus": "Online",
-      "downloadStatus": "Downloaded",
-      "osVersion": "5.1.0.0"
-    },
-    {
-      "serialNo": "JTD-123456",
-      "theatreName": "Regal Cinema",
-      "location": {
-        "city": "Bangalore",
-        "state": "Karnataka",
-        "country": "India"
-      },
-      "bandwidth": "200 Mbps",
-      "avgBandwidth": "180 Kbps",
-      "deviceStatus": "Online",
-      "downloadStatus": "Downloading",
-      "osVersion": "5.0.2.1"
-    },
-    {
-      "serialNo": "JTD-789012",
-      "theatreName": "Cineplex Odeon",
-      "location": {
-        "city": "Chennai",
-        "state": "Tamil Nadu",
-        "country": "India"
-      },
-      "bandwidth": "750 Mbps",
-      "avgBandwidth": "680 Kbps",
-      "deviceStatus": "Online",
-      "downloadStatus": "Downloaded",
-      "osVersion": "5.2.0.1"
-    },
-    {
-      "serialNo": "JTD-345678",
-      "theatreName": "PVR Cinemas",
-      "location": {
-        "city": "Kolkata",
-        "state": "West Bengal",
-        "country": "India"
-      },
-      "bandwidth": "300 Mbps",
-      "avgBandwidth": "275 Kbps",
-      "deviceStatus": "Online",
-      "downloadStatus": "Downloading",
-      "osVersion": "5.1.1.2"
-    }
-  ],
-  "applianceInfo": [
-    {
-      "serialNo": "JTD-512312",
-      "theatreName": "Kriplle Square",
-      "location": {
-        "city": "New Delhi",
-        "state": "Delhi",
-        "country": "India"
-      },
       "ispPaymentResponsibility": "Qube",
       "bandwidth": "1 Gbps",
       "avgBandwidth": "812 Kbps",
@@ -161,6 +89,420 @@
       "downloadStatus": "Downloading",
       "osVersion": "5.1.1.2",
       "storage": "512 GB"
+    },
+    {
+      "serialNo": "JTD-234567",
+      "theatreName": "Inox",
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "400 Mbps",
+      "avgBandwidth": "320 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.2.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-345679",
+      "theatreName": "Carnival Cinemas",
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "600 Mbps",
+      "avgBandwidth": "540 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.3.0.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-456789",
+      "theatreName": "City Pride",
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "350 Mbps",
+      "avgBandwidth": "290 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.1.0.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-567890",
+      "theatreName": "Sathyam Cinemas",
+      "location": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "800 Mbps",
+      "avgBandwidth": "720 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.1.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-678901",
+      "theatreName": "Eros Theatre",
+      "location": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "450 Mbps",
+      "avgBandwidth": "400 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.1.2.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-789013",
+      "theatreName": "Fun Cinemas",
+      "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "550 Mbps",
+      "avgBandwidth": "500 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.0.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-890123",
+      "theatreName": "Esplanade One",
+      "location": {
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "650 Mbps",
+      "avgBandwidth": "600 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.1.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-901234",
+      "theatreName": "Orion Mall",
+      "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "700 Mbps",
+      "avgBandwidth": "650 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.2.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-112233",
+      "theatreName": "Majestic Cinemas",
+      "location": {
+        "city": "Guwahati",
+        "state": "Assam",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "500 Mbps",
+      "avgBandwidth": "450 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.1.3.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-223344",
+      "theatreName": "Cinema 21",
+      "location": {
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "350 Mbps",
+      "avgBandwidth": "300 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.0.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-334455",
+      "theatreName": "Prasad's IMAX",
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "800 Mbps",
+      "avgBandwidth": "700 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.2.2",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-445566",
+      "theatreName": "INOX Insignia",
+      "location": {
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "400 Mbps",
+      "avgBandwidth": "350 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.3.3.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-556677",
+      "theatreName": "Carnival Cinemas",
+      "location": {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "650 Mbps",
+      "avgBandwidth": "600 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.3.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-667788",
+      "theatreName": "Cinepolis",
+      "location": {
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "750 Mbps",
+      "avgBandwidth": "700 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.3.2",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-778899",
+      "theatreName": "SRS Cinemas",
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "850 Mbps",
+      "avgBandwidth": "800 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.4.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-889900",
+      "theatreName": "PVR Gold",
+      "location": {
+        "city": "Chandigarh",
+        "state": "Punjab",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "500 Mbps",
+      "avgBandwidth": "450 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.4.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-990011",
+      "theatreName": "City Walk Cinemas",
+      "location": {
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "650 Mbps",
+      "avgBandwidth": "600 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.4.2",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-101112",
+      "theatreName": "Miraj Cinemas",
+      "location": {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "550 Mbps",
+      "avgBandwidth": "500 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.3.5.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-202223",
+      "theatreName": "Wave Cinemas",
+      "location": {
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "750 Mbps",
+      "avgBandwidth": "700 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.5.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-303334",
+      "theatreName": "PVR Icon",
+      "location": {
+        "city": "Gurgaon",
+        "state": "Haryana",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "500 Mbps",
+      "avgBandwidth": "450 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.5.2",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-404445",
+      "theatreName": "Cinemax",
+      "location": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "450 Mbps",
+      "avgBandwidth": "400 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.3.6.0",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-505556",
+      "theatreName": "Cinepolis",
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "550 Mbps",
+      "avgBandwidth": "500 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.3.6.1",
+      "storage": "N/A"
+    },
+    {
+      "serialNo": "JTD-606667",
+      "theatreName": "Wave Cinemas",
+      "location": {
+        "city": "Gurgaon",
+        "state": "Haryana",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "N/A", 
+      "bandwidth": "450 Mbps",
+      "avgBandwidth": "400 Kbps",
+      "planStartDate": "N/A", 
+      "billingCycle": "N/A", 
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.3.7.0",
+      "storage": "N/A"
     }
   ]
 }
